@@ -1,0 +1,1 @@
+# To test the equivalence of this, makes sense to map each caractere of the string with the numbers forward the directive "byte"
